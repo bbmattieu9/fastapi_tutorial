@@ -13,3 +13,7 @@ def greet():
 def greet_name(name: str):
     return {"message": f"Hello {name}"}
 
+# class Student(BaseModel):
+#     name:str
+#     age:int
+#     roll:int
